@@ -5,14 +5,14 @@ An AI-powered document assistant that enables users to upload PDF documents, ask
 Built with **Python, Streamlit, Ollama, Llama 3.2, and ChromaDB**, this project demonstrates how Retrieval-Augmented Generation (RAG) can make local AI models useful for document-based question answering.
 ## Application Preview
 
-
 ### AI Answer and Source Citations
 
-![AI Answer and Sources](screenshots/app-answer.png)
+![AI Answer and Sources](Screenshot/app-answer.png)
 
 ### PDF Upload and Processing
 
-![PDF Upload Interface](screenshots/app-upload.png)
+![PDF Upload Interface](Screenshot/app-upload.png)
+
 
 
 ## Overview
